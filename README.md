@@ -1,2 +1,3 @@
-# HOHQMesh_examples
-Example output files for HOHQMesh
+# HOHQMesh Examples
+
+Example files for [HOHQMesh](https://github.com/trixi-framework/HOHQMesh).
